@@ -1,8 +1,10 @@
-# -
+<style>
+    h1{
+        color: aqua;
+    }
+</style>
+       
 
-<head> <h1>문의 내역</h1> </head>
-
-<body> 
 <h2>문의 내용 : </h2> <textarea>                   </textarea>
 <h3>답변 : </h3> 
 <textarea> 
@@ -26,3 +28,4 @@
 <h5> more info : ~</h5>
 
 <h6>| 고객문의 | 홈페이지 | 디스코드 |</h6>
+</style>
