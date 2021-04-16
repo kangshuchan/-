@@ -1,3 +1,9 @@
+
+
+
+
+
+<title>문의</title>
 <style>
     h1{
         color: aqua;
